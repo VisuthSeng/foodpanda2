@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:foodpanda_dart/All page/pageshop.dart';
+import 'package:foodpanda_dart/All page/allpage.dart';
 
 class FloatingButton extends StatelessWidget {
   final Color color;
